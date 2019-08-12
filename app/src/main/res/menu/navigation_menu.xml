@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_casa"
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="Acasa"/>
+    <item android:id="@+id/nav_anunturi"
+        android:icon="@mipmap/ic_shopping_cart_black_24dp"
+        android:title="Anunturi"/>
+    <item android:id="@+id/nav_profesori"
+        android:icon="@mipmap/ic_supervisor_account_black_24dp"
+        android:title="Profesori"/>
+    <item android:id="@+id/nav_servicii"
+        android:icon="@mipmap/ic_library_books_black_24dp"
+        android:title="Servicii"/>
+    <item android:id="@+id/nav_contact"
+        android:icon="@mipmap/ic_info_black_24dp"
+        android:title="Contact"/>
+    <item android:id="@+id/nav_cont"
+        android:icon="@mipmap/ic_account_circle_black_24dp"
+        android:title="Cont"/>
+    <item android:id="@+id/nav_logout"
+        android:icon="@mipmap/ic_highlight_off_black_24dp"
+        android:title="Logout"/>
+</menu>
